@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Du An 1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="dieu_khoan_noi_dung">- Thời hạn giữ đồ tối đa là 3 tháng\n\n- Là công dân của nước Việt Nam\n\n- Có chứng minh nhân dân/ thẻ căn cước công dân/hộ chiếu có hiệu lực\n\n- Không thuộc đối tượng trong các danh sách đen: khủng bố, rửa tiền, …\n\n- Nếu bên cầm cố đã thực hiện đúng nghĩa vụ trong thời hạn thì bên nhận vật cầm cố phải trả lại cho bên cầm cố tài sản, các giấy tờ chứng nhận quyền sở hữu tài sản mà bên nhận cầm cố đã nhận. \n\n- Nếu quá hạn thì bên nhận vật cầm cố sẽ có quyền sở hữu hoàn toàn với tài sản đã cầm cố.\n\n- Nếu hỏng hóc không liên quan đến phía cầm cố thì bên cầm cố không phải chịu trách nhiệm.
+    </string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/mQLNhanVien"
+        android:title="Quản lý nhân viên"
+        android:icon="@drawable/ic_nhanvien"/>
+
+    <item android:id="@+id/mQLKhachHang"
+        android:title="Quản lý khách hàng"
+        android:icon="@drawable/ic_khachhang"/>
+
+    <item android:id="@+id/mQLLoaiVatPham"
+        android:title="Quản lý loại vật phẩm"
+        android:icon="@drawable/ic_vatpham"/>
+
+    <item android:id="@+id/mQLVatPham"
+        android:title="Quản lý vật phẩm"
+        android:icon="@drawable/ic_vatpham"/>
+
+    <item android:id="@+id/mQLPhieu"
+        android:title="Quản lý phiếu"
+        android:icon="@drawable/ic_qlphieu"/>
+
+    <item android:id="@+id/mQLThongKe"
+        android:title="Thống kê"
+        android:icon="@drawable/ic_thongke"/>
+
+    <item android:id="@+id/mBXH"
+        android:title="Bảng xếp hạng"
+        android:icon="@drawable/ic_top10"/>
+
+    <item android:id="@+id/mDieuKhoan"
+        android:title="Điều khoản"
+        android:icon="@drawable/ic_dieukhoan"/>
+
+    <item android:id="@+id/mDoiMK"
+        android:title="Đổi mật khẩu"
+        android:icon="@drawable/ic_doimatkhau"/>
+
+    <item android:id="@+id/mThoat"
+        android:title="Thoát"
+        android:icon="@drawable/ic_thoat"/>
+</menu>
